@@ -1,2 +1,2 @@
-# PoE_Trade_CSS
+# PoE Trade CSS
 Simple Javascript to enable custom CSS styles with tampermonkey.
